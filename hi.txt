@@ -1,1 +1,1 @@
-hi iam vishnu
+get the user data
